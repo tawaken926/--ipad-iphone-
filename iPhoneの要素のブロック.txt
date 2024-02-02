@@ -29,7 +29,6 @@ news.yahoo.co.jp###uamods > div.sc-fjZqSk.jPPVJu:nth-child(4) > div.ArticleReact
 news.yahoo.co.jp###uamods > div.sc-fjZqSk.jPPVJu:nth-child(3) > div.ArticleReaction__Wrapper-nGSFr.hHnpbf
 news.yahoo.co.jp###uamods > div.sc-fjZqSk.jPPVJu:nth-child(2) > div.ArticleReaction__Wrapper-nGSFr.hHnpbf
 news.yahoo.co.jp###uamods > div.sc-fjZqSk.jPPVJu:nth-child(1) > div.ArticleReaction__Wrapper-nGSFr.hHnpbf
-
 m.yahoo.co.jp###log-stream > div.Balloon_StreamTabBalloon__U2cZ1.Balloon_StreamTabBalloonupdate__VzKkn.theme-Kisekae__ballon:nth-child(1)
 m.yahoo.co.jp###log-stream > div.Balloon_StreamTabBalloon__U2cZ1.Balloon_StreamTabBalloonupdate__VzKkn.theme-Kisekae__ballon:nth-child(2)
 m.yahoo.co.jp###log-stream > div.Balloon_StreamTabBalloon__U2cZ1.Balloon_StreamTabBalloonupdate__VzKkn.theme-Kisekae__ballon:nth-child(3)
@@ -59,7 +58,6 @@ news.yahoo.co.jp###uamods > div.sc-fjZqSk.jPPVJu:nth-child(4) > div.ArticleReact
 news.yahoo.co.jp###uamods > div.sc-fjZqSk.jPPVJu:nth-child(3) > div.ArticleReaction__Wrapper-nGSFr.hHnpbf
 news.yahoo.co.jp###uamods > div.sc-fjZqSk.jPPVJu:nth-child(2) > div.ArticleReaction__Wrapper-nGSFr.hHnpbf
 news.yahoo.co.jp###uamods > div.sc-fjZqSk.jPPVJu:nth-child(1) > div.ArticleReaction__Wrapper-nGSFr.hHnpbf
-
 news.yahoo.co.jp###contents > div.sc-gPFjYV.dPIJHD > article.sc-iNNMEw.kMVNSY:first-child > div.sc-jLZUEU.eKATJg:first-child > div.sc-ekwZWc.kVrxzW.sc-gnsusz.dKynrT.viewableWrapper:nth-child(1)
 news.yahoo.co.jp###contents > div.sc-gPFjYV.dPIJHD > article.sc-iNNMEw.kMVNSY:first-child > div.sc-jLZUEU.eKATJg:first-child > div.sc-ekwZWc.kVrxzW.sc-gnsusz.dKynrT.viewableWrapper:nth-child(2)
 news.yahoo.co.jp###contents > div.sc-gPFjYV.dPIJHD > article.sc-iNNMEw.kMVNSY:first-child > div.sc-jLZUEU.eKATJg:first-child > div.sc-ekwZWc.kVrxzW.sc-gnsusz.dKynrT.viewableWrapper:nth-child(3)
@@ -70,19 +68,15 @@ news.yahoo.co.jp###contents > div.sc-gPFjYV.dPIJHD > article.sc-iNNMEw.kMVNSY:fi
 news.yahoo.co.jp###contents > div.sc-gPFjYV.dPIJHD > article.sc-iNNMEw.kMVNSY:first-child > div.sc-jLZUEU.eKATJg:first-child > div.sc-ekwZWc.kVrxzW.sc-gnsusz.dKynrT.viewableWrapper:nth-child(8)
 news.yahoo.co.jp###contents > div.sc-gPFjYV.dPIJHD > article.sc-iNNMEw.kMVNSY:first-child > div.sc-jLZUEU.eKATJg:first-child > div.sc-ekwZWc.kVrxzW.sc-gnsusz.dKynrT.viewableWrapper:nth-child(9)
 news.yahoo.co.jp###contents > div.sc-gPFjYV.dPIJHD > article.sc-iNNMEw.kMVNSY:first-child > div.sc-jLZUEU.eKATJg:first-child > div.sc-ekwZWc.kVrxzW.sc-gnsusz.dKynrT.viewableWrapper:nth-child(10)
-
-
 news.yahoo.co.jp##div:contains("PR")
 news.yahoo.co.jp##div:contains("ゆたぼん")
 news.yahoo.co.jp##div:contains("木下優樹菜")
 news.yahoo.co.jp##div:contains("がん")
 news.yahoo.co.jp##div:contains("眼圧")
 news.yahoo.co.jp##div:contains("緑内障")
-
 news.yahoo.co.jp###comModule > div.ViewableElementWrapper__Wrapper-kVzfpE.hHyjvk.viewableWrapper
 news.yahoo.co.jp###MtoC > div.MtoCHeader:last-child
 news.yahoo.co.jp###MtoC > div.MtoCHeader:last-child
-
 news.yahoo.co.jp###contents > div.sc-hxQuJi.dBggKA > article.sc-jLZUEU.eMzWhX:first-child > div.sc-gPFjYV.gzxHBt:first-child > div.sc-ekwZWc.kVrxzW.sc-dtiUJe.ennQNs.viewableWrapper:nth-child(1)
 news.yahoo.co.jp###contents > div.sc-hxQuJi.dBggKA > article.sc-jLZUEU.eMzWhX:first-child > div.sc-gPFjYV.gzxHBt:first-child > div.sc-ekwZWc.kVrxzW.sc-dtiUJe.ennQNs.viewableWrapper:nth-child(2)
 news.yahoo.co.jp###contents > div.sc-hxQuJi.dBggKA > article.sc-jLZUEU.eMzWhX:first-child > div.sc-gPFjYV.gzxHBt:first-child > div.sc-ekwZWc.kVrxzW.sc-dtiUJe.ennQNs.viewableWrapper:nth-child(3)
