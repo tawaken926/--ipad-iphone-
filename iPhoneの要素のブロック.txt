@@ -1,0 +1,110 @@
+iPhone要素のブロック
+
+m.yahoo.co.jp###log-stream > div.Balloon_StreamTabBalloon__U2cZ1.Balloon_StreamTabBalloonupdate__VzKkn.theme-Kisekae__ballon:nth-child(1)
+m.yahoo.co.jp###log-stream > div.Balloon_StreamTabBalloon__U2cZ1.Balloon_StreamTabBalloonupdate__VzKkn.theme-Kisekae__ballon:nth-child(2)
+m.yahoo.co.jp###log-stream > div.Balloon_StreamTabBalloon__U2cZ1.Balloon_StreamTabBalloonupdate__VzKkn.theme-Kisekae__ballon:nth-child(3)
+m.yahoo.co.jp###log-stream > div.Balloon_StreamTabBalloon__U2cZ1.Balloon_StreamTabBalloonupdate__VzKkn.theme-Kisekae__ballon:nth-child(4)
+m.yahoo.co.jp###log-stream > div.Balloon_StreamTabBalloon__U2cZ1.Balloon_StreamTabBalloonupdate__VzKkn.theme-Kisekae__ballon:nth-child(5)
+m.yahoo.co.jp###log-stream > div.Balloon_StreamTabBalloon__U2cZ1.Balloon_StreamTabBalloonupdate__VzKkn.theme-Kisekae__ballon:nth-child(6)
+m.yahoo.co.jp###log-stream > div.Balloon_StreamTabBalloon__U2cZ1.Balloon_StreamTabBalloonupdate__VzKkn.theme-Kisekae__ballon:nth-child(7)
+m.yahoo.co.jp###log-stream > div.Balloon_StreamTabBalloon__U2cZ1.Balloon_StreamTabBalloonupdate__VzKkn.theme-Kisekae__ballon:nth-child(8)
+m.yahoo.co.jp###log-stream > div.Balloon_StreamTabBalloon__U2cZ1.Balloon_StreamTabBalloonupdate__VzKkn.theme-Kisekae__ballon:nth-child(9)
+m.yahoo.co.jp###log-stream > div.Balloon_StreamTabBalloon__U2cZ1.Balloon_StreamTabBalloonupdate__VzKkn.theme-Kisekae__ballon:nth-child(10)
+news.yahoo.co.jp###comModule
+news.yahoo.co.jp###mhd_banner_wrapper
+m.yahoo.co.jp###log-stream > div.Tab_StreamTab__n8DwO:nth-child(3) > div.Tab_StreamTab__body__NWMLj > div.Tab_StreamTab__inner__60jbG.theme-Kisekae__backgroundColor--A4 > ul.Tab_StreamTab__list__e4Tra > li.Tab_StreamTab__item___sd_M.theme-Kisekae__beforePseudoBackgroundColor--B5:nth-child(4)
+m.yahoo.co.jp###log-stream > div.Tab_StreamTab__n8DwO:nth-child(4) > div.Tab_StreamTab__body__NWMLj > div.Tab_StreamTab__inner__60jbG.theme-Kisekae__backgroundColor--A4 > ul.Tab_StreamTab__list__e4Tra > li.Tab_StreamTab__item___sd_M.theme-Kisekae__beforePseudoBackgroundColor--B5:nth-child(4) > button.Tab_StreamTab__button__vza_W
+news.yahoo.co.jp###uamods > div.sc-fjZqSk.jPPVJu:nth-child(15) > div.ArticleReaction__Wrapper-nGSFr.hHnpbf
+news.yahoo.co.jp###uamods > div.sc-fjZqSk.jPPVJu:nth-child(14) > div.ArticleReaction__Wrapper-nGSFr.hHnpbf
+news.yahoo.co.jp###uamods > div.sc-fjZqSk.jPPVJu:nth-child(13) > div.ArticleReaction__Wrapper-nGSFr.hHnpbf
+news.yahoo.co.jp###uamods > div.sc-fjZqSk.jPPVJu:nth-child(12) > div.ArticleReaction__Wrapper-nGSFr.hHnpbf
+news.yahoo.co.jp###uamods > div.sc-fjZqSk.jPPVJu:nth-child(11) > div.ArticleReaction__Wrapper-nGSFr.hHnpbf
+news.yahoo.co.jp###uamods > div.sc-fjZqSk.jPPVJu:nth-child(10) > div.ArticleReaction__Wrapper-nGSFr.hHnpbf
+news.yahoo.co.jp###uamods > div.sc-fjZqSk.jPPVJu:nth-child(9) > div.ArticleReaction__Wrapper-nGSFr.hHnpbf
+news.yahoo.co.jp###uamods > div.sc-fjZqSk.jPPVJu:nth-child(8) > div.ArticleReaction__Wrapper-nGSFr.hHnpbf
+news.yahoo.co.jp###uamods > div.sc-fjZqSk.jPPVJu:nth-child(7) > div.ArticleReaction__Wrapper-nGSFr.hHnpbf
+news.yahoo.co.jp###uamods > div.sc-fjZqSk.jPPVJu:nth-child(6) > div.ArticleReaction__Wrapper-nGSFr.hHnpbf
+news.yahoo.co.jp###uamods > div.sc-fjZqSk.jPPVJu:nth-child(5) > div.ArticleReaction__Wrapper-nGSFr.hHnpbf
+news.yahoo.co.jp###uamods > div.sc-fjZqSk.jPPVJu:nth-child(4) > div.ArticleReaction__Wrapper-nGSFr.hHnpbf
+news.yahoo.co.jp###uamods > div.sc-fjZqSk.jPPVJu:nth-child(3) > div.ArticleReaction__Wrapper-nGSFr.hHnpbf
+news.yahoo.co.jp###uamods > div.sc-fjZqSk.jPPVJu:nth-child(2) > div.ArticleReaction__Wrapper-nGSFr.hHnpbf
+news.yahoo.co.jp###uamods > div.sc-fjZqSk.jPPVJu:nth-child(1) > div.ArticleReaction__Wrapper-nGSFr.hHnpbf
+
+m.yahoo.co.jp###log-stream > div.Balloon_StreamTabBalloon__U2cZ1.Balloon_StreamTabBalloonupdate__VzKkn.theme-Kisekae__ballon:nth-child(1)
+m.yahoo.co.jp###log-stream > div.Balloon_StreamTabBalloon__U2cZ1.Balloon_StreamTabBalloonupdate__VzKkn.theme-Kisekae__ballon:nth-child(2)
+m.yahoo.co.jp###log-stream > div.Balloon_StreamTabBalloon__U2cZ1.Balloon_StreamTabBalloonupdate__VzKkn.theme-Kisekae__ballon:nth-child(3)
+m.yahoo.co.jp###log-stream > div.Balloon_StreamTabBalloon__U2cZ1.Balloon_StreamTabBalloonupdate__VzKkn.theme-Kisekae__ballon:nth-child(4)
+m.yahoo.co.jp###log-stream > div.Balloon_StreamTabBalloon__U2cZ1.Balloon_StreamTabBalloonupdate__VzKkn.theme-Kisekae__ballon:nth-child(5)
+m.yahoo.co.jp###log-stream > div.Balloon_StreamTabBalloon__U2cZ1.Balloon_StreamTabBalloonupdate__VzKkn.theme-Kisekae__ballon:nth-child(6)
+m.yahoo.co.jp###log-stream > div.Balloon_StreamTabBalloon__U2cZ1.Balloon_StreamTabBalloonupdate__VzKkn.theme-Kisekae__ballon:nth-child(7)
+m.yahoo.co.jp###log-stream > div.Balloon_StreamTabBalloon__U2cZ1.Balloon_StreamTabBalloonupdate__VzKkn.theme-Kisekae__ballon:nth-child(8)
+m.yahoo.co.jp###log-stream > div.Balloon_StreamTabBalloon__U2cZ1.Balloon_StreamTabBalloonupdate__VzKkn.theme-Kisekae__ballon:nth-child(9)
+m.yahoo.co.jp###log-stream > div.Balloon_StreamTabBalloon__U2cZ1.Balloon_StreamTabBalloonupdate__VzKkn.theme-Kisekae__ballon:nth-child(10)
+news.yahoo.co.jp###comModule
+news.yahoo.co.jp###mhd_banner_wrapper
+m.yahoo.co.jp###log-stream > div.Tab_StreamTab__n8DwO:nth-child(3) > div.Tab_StreamTab__body__NWMLj > div.Tab_StreamTab__inner__60jbG.theme-Kisekae__backgroundColor--A4 > ul.Tab_StreamTab__list__e4Tra > li.Tab_StreamTab__item___sd_M.theme-Kisekae__beforePseudoBackgroundColor--B5:nth-child(4)
+m.yahoo.co.jp###log-stream > div.Tab_StreamTab__n8DwO:nth-child(4) > div.Tab_StreamTab__body__NWMLj > div.Tab_StreamTab__inner__60jbG.theme-Kisekae__backgroundColor--A4 > ul.Tab_StreamTab__list__e4Tra > li.Tab_StreamTab__item___sd_M.theme-Kisekae__beforePseudoBackgroundColor--B5:nth-child(4) > button.Tab_StreamTab__button__vza_W
+news.yahoo.co.jp###uamods > div.sc-fjZqSk.jPPVJu:nth-child(15) > div.ArticleReaction__Wrapper-nGSFr.hHnpbf
+news.yahoo.co.jp###uamods > div.sc-fjZqSk.jPPVJu:nth-child(14) > div.ArticleReaction__Wrapper-nGSFr.hHnpbf
+news.yahoo.co.jp###uamods > div.sc-fjZqSk.jPPVJu:nth-child(13) > div.ArticleReaction__Wrapper-nGSFr.hHnpbf
+news.yahoo.co.jp###uamods > div.sc-fjZqSk.jPPVJu:nth-child(12) > div.ArticleReaction__Wrapper-nGSFr.hHnpbf
+news.yahoo.co.jp###uamods > div.sc-fjZqSk.jPPVJu:nth-child(11) > div.ArticleReaction__Wrapper-nGSFr.hHnpbf
+news.yahoo.co.jp###uamods > div.sc-fjZqSk.jPPVJu:nth-child(10) > div.ArticleReaction__Wrapper-nGSFr.hHnpbf
+news.yahoo.co.jp###uamods > div.sc-fjZqSk.jPPVJu:nth-child(9) > div.ArticleReaction__Wrapper-nGSFr.hHnpbf
+news.yahoo.co.jp###uamods > div.sc-fjZqSk.jPPVJu:nth-child(8) > div.ArticleReaction__Wrapper-nGSFr.hHnpbf
+news.yahoo.co.jp###uamods > div.sc-fjZqSk.jPPVJu:nth-child(7) > div.ArticleReaction__Wrapper-nGSFr.hHnpbf
+news.yahoo.co.jp###uamods > div.sc-fjZqSk.jPPVJu:nth-child(6) > div.ArticleReaction__Wrapper-nGSFr.hHnpbf
+news.yahoo.co.jp###uamods > div.sc-fjZqSk.jPPVJu:nth-child(5) > div.ArticleReaction__Wrapper-nGSFr.hHnpbf
+news.yahoo.co.jp###uamods > div.sc-fjZqSk.jPPVJu:nth-child(4) > div.ArticleReaction__Wrapper-nGSFr.hHnpbf
+news.yahoo.co.jp###uamods > div.sc-fjZqSk.jPPVJu:nth-child(3) > div.ArticleReaction__Wrapper-nGSFr.hHnpbf
+news.yahoo.co.jp###uamods > div.sc-fjZqSk.jPPVJu:nth-child(2) > div.ArticleReaction__Wrapper-nGSFr.hHnpbf
+news.yahoo.co.jp###uamods > div.sc-fjZqSk.jPPVJu:nth-child(1) > div.ArticleReaction__Wrapper-nGSFr.hHnpbf
+
+news.yahoo.co.jp###contents > div.sc-gPFjYV.dPIJHD > article.sc-iNNMEw.kMVNSY:first-child > div.sc-jLZUEU.eKATJg:first-child > div.sc-ekwZWc.kVrxzW.sc-gnsusz.dKynrT.viewableWrapper:nth-child(1)
+news.yahoo.co.jp###contents > div.sc-gPFjYV.dPIJHD > article.sc-iNNMEw.kMVNSY:first-child > div.sc-jLZUEU.eKATJg:first-child > div.sc-ekwZWc.kVrxzW.sc-gnsusz.dKynrT.viewableWrapper:nth-child(2)
+news.yahoo.co.jp###contents > div.sc-gPFjYV.dPIJHD > article.sc-iNNMEw.kMVNSY:first-child > div.sc-jLZUEU.eKATJg:first-child > div.sc-ekwZWc.kVrxzW.sc-gnsusz.dKynrT.viewableWrapper:nth-child(3)
+news.yahoo.co.jp###contents > div.sc-gPFjYV.dPIJHD > article.sc-iNNMEw.kMVNSY:first-child > div.sc-jLZUEU.eKATJg:first-child > div.sc-ekwZWc.kVrxzW.sc-gnsusz.dKynrT.viewableWrapper:nth-child(4)
+news.yahoo.co.jp###contents > div.sc-gPFjYV.dPIJHD > article.sc-iNNMEw.kMVNSY:first-child > div.sc-jLZUEU.eKATJg:first-child > div.sc-ekwZWc.kVrxzW.sc-gnsusz.dKynrT.viewableWrapper:nth-child(5)
+news.yahoo.co.jp###contents > div.sc-gPFjYV.dPIJHD > article.sc-iNNMEw.kMVNSY:first-child > div.sc-jLZUEU.eKATJg:first-child > div.sc-ekwZWc.kVrxzW.sc-gnsusz.dKynrT.viewableWrapper:nth-child(6)
+news.yahoo.co.jp###contents > div.sc-gPFjYV.dPIJHD > article.sc-iNNMEw.kMVNSY:first-child > div.sc-jLZUEU.eKATJg:first-child > div.sc-ekwZWc.kVrxzW.sc-gnsusz.dKynrT.viewableWrapper:nth-child(7)
+news.yahoo.co.jp###contents > div.sc-gPFjYV.dPIJHD > article.sc-iNNMEw.kMVNSY:first-child > div.sc-jLZUEU.eKATJg:first-child > div.sc-ekwZWc.kVrxzW.sc-gnsusz.dKynrT.viewableWrapper:nth-child(8)
+news.yahoo.co.jp###contents > div.sc-gPFjYV.dPIJHD > article.sc-iNNMEw.kMVNSY:first-child > div.sc-jLZUEU.eKATJg:first-child > div.sc-ekwZWc.kVrxzW.sc-gnsusz.dKynrT.viewableWrapper:nth-child(9)
+news.yahoo.co.jp###contents > div.sc-gPFjYV.dPIJHD > article.sc-iNNMEw.kMVNSY:first-child > div.sc-jLZUEU.eKATJg:first-child > div.sc-ekwZWc.kVrxzW.sc-gnsusz.dKynrT.viewableWrapper:nth-child(10)
+
+
+news.yahoo.co.jp##div:contains("PR")
+news.yahoo.co.jp##div:contains("ゆたぼん")
+news.yahoo.co.jp##div:contains("木下優樹菜")
+news.yahoo.co.jp##div:contains("がん")
+news.yahoo.co.jp##div:contains("眼圧")
+news.yahoo.co.jp##div:contains("緑内障")
+
+news.yahoo.co.jp###comModule > div.ViewableElementWrapper__Wrapper-kVzfpE.hHyjvk.viewableWrapper
+news.yahoo.co.jp###MtoC > div.MtoCHeader:last-child
+news.yahoo.co.jp###MtoC > div.MtoCHeader:last-child
+
+news.yahoo.co.jp###contents > div.sc-hxQuJi.dBggKA > article.sc-jLZUEU.eMzWhX:first-child > div.sc-gPFjYV.gzxHBt:first-child > div.sc-ekwZWc.kVrxzW.sc-dtiUJe.ennQNs.viewableWrapper:nth-child(1)
+news.yahoo.co.jp###contents > div.sc-hxQuJi.dBggKA > article.sc-jLZUEU.eMzWhX:first-child > div.sc-gPFjYV.gzxHBt:first-child > div.sc-ekwZWc.kVrxzW.sc-dtiUJe.ennQNs.viewableWrapper:nth-child(2)
+news.yahoo.co.jp###contents > div.sc-hxQuJi.dBggKA > article.sc-jLZUEU.eMzWhX:first-child > div.sc-gPFjYV.gzxHBt:first-child > div.sc-ekwZWc.kVrxzW.sc-dtiUJe.ennQNs.viewableWrapper:nth-child(3)
+news.yahoo.co.jp###contents > div.sc-hxQuJi.dBggKA > article.sc-jLZUEU.eMzWhX:first-child > div.sc-gPFjYV.gzxHBt:first-child > div.sc-ekwZWc.kVrxzW.sc-dtiUJe.ennQNs.viewableWrapper:nth-child(4)
+news.yahoo.co.jp###contents > div.sc-hxQuJi.dBggKA > article.sc-jLZUEU.eMzWhX:first-child > div.sc-gPFjYV.gzxHBt:first-child > div.sc-ekwZWc.kVrxzW.sc-dtiUJe.ennQNs.viewableWrapper:nth-child(5)
+news.yahoo.co.jp###contents > div.sc-hxQuJi.dBggKA > article.sc-jLZUEU.eMzWhX:first-child > div.sc-gPFjYV.gzxHBt:first-child > div.sc-ekwZWc.kVrxzW.sc-dtiUJe.ennQNs.viewableWrapper:nth-child(6)
+news.yahoo.co.jp###contents > div.sc-hxQuJi.dBggKA > article.sc-jLZUEU.eMzWhX:first-child > div.sc-gPFjYV.gzxHBt:first-child > div.sc-ekwZWc.kVrxzW.sc-dtiUJe.ennQNs.viewableWrapper:nth-child(7)
+news.yahoo.co.jp###contents > div.sc-hxQuJi.dBggKA > article.sc-jLZUEU.eMzWhX:first-child > div.sc-gPFjYV.gzxHBt:first-child > div.sc-ekwZWc.kVrxzW.sc-dtiUJe.ennQNs.viewableWrapper:nth-child(8)
+news.yahoo.co.jp###contents > div.sc-hxQuJi.dBggKA > article.sc-jLZUEU.eMzWhX:first-child > div.sc-gPFjYV.gzxHBt:first-child > div.sc-ekwZWc.kVrxzW.sc-dtiUJe.ennQNs.viewableWrapper:nth-child(9)
+news.yahoo.co.jp###contents > div.sc-hxQuJi.dBggKA > article.sc-jLZUEU.eMzWhX:first-child > div.sc-gPFjYV.gzxHBt:first-child > div.sc-ekwZWc.kVrxzW.sc-dtiUJe.ennQNs.viewableWrapper:nth-child(10)
+news.yahoo.co.jp###contents > div.sc-hxQuJi.dBggKA > article.sc-jLZUEU.eMzWhX:first-child > div.sc-gPFjYV.gzxHBt:first-child > div.sc-ekwZWc.kVrxzW.sc-dtiUJe.ennQNs.viewableWrapper:nth-child(11)
+news.yahoo.co.jp###contents > div.sc-hxQuJi.dBggKA > article.sc-jLZUEU.eMzWhX:first-child > div.sc-gPFjYV.gzxHBt:first-child > div.sc-ekwZWc.kVrxzW.sc-dtiUJe.ennQNs.viewableWrapper:nth-child(12)
+news.yahoo.co.jp###uamods > section.sc-iYXQCk.ljaetq:nth-child(1)
+news.yahoo.co.jp###uamods > section.sc-iYXQCk.ljaetq:nth-child(2)
+news.yahoo.co.jp###uamods > section.sc-iYXQCk.ljaetq:nth-child(3)
+news.yahoo.co.jp###uamods > section.sc-iYXQCk.ljaetq:nth-child(4)
+news.yahoo.co.jp###uamods > section.sc-iYXQCk.ljaetq:nth-child(5)
+news.yahoo.co.jp###uamods > section.sc-iYXQCk.ljaetq:nth-child(6)
+news.yahoo.co.jp###uamods > section.sc-iYXQCk.ljaetq:nth-child(7)
+news.yahoo.co.jp###uamods > section.sc-iYXQCk.ljaetq:nth-child(8)
+news.yahoo.co.jp###uamods > section.sc-iYXQCk.ljaetq:nth-child(9)
+news.yahoo.co.jp###uamods > section.sc-iYXQCk.ljaetq:nth-child(10)
+news.yahoo.co.jp###uamods > section.sc-iYXQCk.ljaetq:nth-child(11)
+news.yahoo.co.jp###uamods > section.sc-iYXQCk.ljaetq:nth-child(12)
+news.yahoo.co.jp###contents > div.sc-iNpdUm.jxPyiw:first-child
