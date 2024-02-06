@@ -1,5 +1,5 @@
 ipad用ブロックリスト【adblock形式】
-作成日：2月6日
+作成日：2月7日
 作成者：Ken.T
  
 news.yahoo.co.jp###uamods > div.sc-dkmKIT.koujgH:nth-child(4)
@@ -48,66 +48,7 @@ news.yahoo.co.jp###uamods > header:first-child > div.sc-lcCJel.goILST:last-child
 news.yahoo.co.jp###uamods > header:first-child > div.sc-lcCJel.goILST:last-child > div:first-child > div.sc-lLFPf.BRcrH > div.sc-jxEivJ.eWxvMh:nth-child(3) > button.sc-jHVedQ.UyDvN:last-child > span.sc-hlTwrV.iNXUtJ
 news.yahoo.co.jp###uamods > header:first-child > div.sc-lcCJel.goILST:last-child > div:first-child > div.sc-lLFPf.BRcrH > div.sc-jxEivJ.eWxvMh:nth-child(3) > button.sc-cEaxxk.dTgvut:first-child > span.sc-kRvGvC.cCpVSC:first-child > svg.sc-gvDHVf.ckRLyq.riff-text-current
 news.yahoo.co.jp###uamods > header:first-child > div.sc-lcCJel.goILST:last-child > div:first-child > div.sc-lLFPf.BRcrH > div.sc-jxEivJ.eWxvMh:nth-child(3) > button.sc-cEaxxk.dTgvut:first-child > span.sc-kRvGvC.cCpVSC:first-child
-news.yahoo.co.jp###contentsWrap > div.sc-DGwzl.eEwucu:last-child > a.sc-erqdPp.cWLswS
-yahoo.co.jp###ssp_ydn_82399_269466 > div:last-child > div:first-child > a:nth-child(3)
-yahoo.co.jp###ssp_ydn_82399_269466 > div:last-child > div:first-child
-yahoo.co.jp###ssp_ydn_82399_269466 > div:last-child
-yahoo.co.jp###ssp_ydn_82399_269466_ad_frame
-www.yahoo.co.jp###clvmoduleec2cllinkaucusvcclposition0 > .-DmdTfmK9dpsdI1vggc-z._2wxmE85OIsKrFYkvsJ2Tu1._1nJ39BFpWaPCIWutB-olO8
-www.yahoo.co.jp##._15h66qPnVy4iQzPepgAaiY > ._2wHHN0Lb5Djgf3lJuvl0lo._6iDyy-CUks251J9k1epBP
-www.yahoo.co.jp##._2TzkLph0QyL9hAv5c53WeY > ._2wHHN0Lb5Djgf3lJuvl0lo._6iDyy-CUks251J9k1epBP
-www.yahoo.co.jp##._3-3Fn_xTIV2C-9QYo7jj7V
-www.yahoo.co.jp###CenterBanner
-www.yahoo.co.jp##._2dqDKArI6iGaA3nS7xNUmE > dl > dd
-www.yahoo.co.jp##._3rCO0-ffBAEkCS8URNYQBC
-www.yahoo.co.jp###biz > .-DmdTfmK9dpsdI1vggc-z._171Q0OxQF2Vk3J_CxMxajb._1nJ39BFpWaPCIWutB-olO8
-www.yahoo.co.jp###csr > .-DmdTfmK9dpsdI1vggc-z._171Q0OxQF2Vk3J_CxMxajb._1nJ39BFpWaPCIWutB-olO8
-www.yahoo.co.jp###info > .-DmdTfmK9dpsdI1vggc-z._171Q0OxQF2Vk3J_CxMxajb._1nJ39BFpWaPCIWutB-olO8
-www.yahoo.co.jp##.QoCp7KDEt29FbN5hCjsCx
-www.yahoo.co.jp##article._3S2Q2j3wAQxbug02Q7t3dO:nth-of-type(14)
-www.yahoo.co.jp##li._2j0udhv5jERZtYzddeDwcv:nth-of-type(1) > .QLtbNZwO-lssuRUcWewbd > ._3sAlKGsIBCxTUbNi86oSjt.yMWCYupQNdgppL-NV6sMi > ._2cXD1uC4eaOih4-zkRgqjU > .TRuzXRRZHRqbqgLUCCco9 > ._2dkkFdF6iwwsvj59371Trg
-www.yahoo.co.jp##li._2j0udhv5jERZtYzddeDwcv:nth-of-type(2) > .QLtbNZwO-lssuRUcWewbd > ._3sAlKGsIBCxTUbNi86oSjt.yMWCYupQNdgppL-NV6sMi > ._2cXD1uC4eaOih4-zkRgqjU > .TRuzXRRZHRqbqgLUCCco9 > ._2dkkFdF6iwwsvj59371Trg
-www.yahoo.co.jp##li._2j0udhv5jERZtYzddeDwcv:nth-of-type(3) > .QLtbNZwO-lssuRUcWewbd > ._3sAlKGsIBCxTUbNi86oSjt.yMWCYupQNdgppL-NV6sMi > ._2cXD1uC4eaOih4-zkRgqjU > .TRuzXRRZHRqbqgLUCCco9 > ._2dkkFdF6iwwsvj59371Trg
-www.yahoo.co.jp##li._2j0udhv5jERZtYzddeDwcv:nth-of-type(4) > .QLtbNZwO-lssuRUcWewbd > ._3sAlKGsIBCxTUbNi86oSjt.yMWCYupQNdgppL-NV6sMi > ._2cXD1uC4eaOih4-zkRgqjU > .TRuzXRRZHRqbqgLUCCco9 > ._2dkkFdF6iwwsvj59371Trg
-www.yahoo.co.jp##li._2j0udhv5jERZtYzddeDwcv:nth-of-type(5) > .QLtbNZwO-lssuRUcWewbd > ._3sAlKGsIBCxTUbNi86oSjt.yMWCYupQNdgppL-NV6sMi > ._2cXD1uC4eaOih4-zkRgqjU > .TRuzXRRZHRqbqgLUCCco9 > ._2dkkFdF6iwwsvj59371Trg
-www.yahoo.co.jp##li._2j0udhv5jERZtYzddeDwcv:nth-of-type(6) > .QLtbNZwO-lssuRUcWewbd > ._3sAlKGsIBCxTUbNi86oSjt.yMWCYupQNdgppL-NV6sMi > ._2cXD1uC4eaOih4-zkRgqjU > .TRuzXRRZHRqbqgLUCCco9 > ._2dkkFdF6iwwsvj59371Trg
-www.yahoo.co.jp##li._2j0udhv5jERZtYzddeDwcv:nth-of-type(8) > .QLtbNZwO-lssuRUcWewbd > ._3sAlKGsIBCxTUbNi86oSjt.yMWCYupQNdgppL-NV6sMi > ._2cXD1uC4eaOih4-zkRgqjU > .TRuzXRRZHRqbqgLUCCco9 > ._2dkkFdF6iwwsvj59371Trg
-www.yahoo.co.jp##li._2wMdVO6wAf3-0DnWkjTY0b:nth-of-type(4)
-www.yahoo.co.jp##li._2j0udhv5jERZtYzddeDwcv:nth-of-type(7) > .QLtbNZwO-lssuRUcWewbd > ._3sAlKGsIBCxTUbNi86oSjt.yMWCYupQNdgppL-NV6sMi > ._2cXD1uC4eaOih4-zkRgqjU > .TRuzXRRZHRqbqgLUCCco9 > ._2dkkFdF6iwwsvj59371Trg
-news.yahoo.co.jp###mhLinkHelp
-news.yahoo.co.jp###uhd_offer02 > .compo > .txt
-news.yahoo.co.jp###uhd_offer01 > .compo > .txt
-news.yahoo.co.jp###uhd_offer02
-news.yahoo.co.jp###msthdPrLink
-news.yahoo.co.jp##.riff-ml-1.riff-Stack__item > .riff-text-current > path
-news.yahoo.co.jp##.riff-text-current.riff-absolute.riff-SocialButtonFacebook__icon
-news.yahoo.co.jp###uhd_offer04 > .compo > .txt
-news.yahoo.co.jp##.dIGwvt.sc-eARyco
-news.yahoo.co.jp###uhd_offer05 > .compo > .txt
-news.yahoo.co.jp##.footerNavigation.esAomI.sc-dlfnuX
-news.yahoo.co.jp##a.iUnkQg.sc-gsTEea:nth-of-type(6)
-news.yahoo.co.jp##a.iUnkQg.sc-gsTEea:nth-of-type(2)
-news.yahoo.co.jp##a.iUnkQg.sc-gsTEea:nth-of-type(3)
-news.yahoo.co.jp##a.iUnkQg.sc-gsTEea:nth-of-type(7)
-news.yahoo.co.jp##a.iUnkQg.sc-gsTEea:nth-of-type(8)
-news.yahoo.co.jp##a.iUnkQg.sc-gsTEea:nth-of-type(5)
-news.yahoo.co.jp##a.iUnkQg.sc-gsTEea:nth-of-type(1)
-news.yahoo.co.jp##a.iUnkQg.sc-gsTEea:nth-of-type(9)
-news.yahoo.co.jp##l.bIkdBr.ArticleReaction__Wrapper-nGSFr
-news.yahoo.co.jp##.dpELuI.sc-chbAZy
-news.yahoo.co.jp##.gotcOU.sc-bdfBQB > p
-news.yahoo.co.jp##.llFvoD.sc-fKFxtB > .mdYKk.sc-dmlqKv
-news.yahoo.co.jp##.flGlMA.sc-fKFxtB > .mdYKk.sc-dmlqKv
-news.yahoo.co.jp##li.dOeFaO.sc-fKFxtB:nth-of-type(8) > .mdYKk.sc-dmlqKv
-news.yahoo.co.jp##.AFuem.sc-jxgRYG
-news.yahoo.co.jp##.litZde.sc-kGNyvp
-news.yahoo.co.jp##.eCnFDZ.sc-hArxMB > .kViVTb.sc-NoRgF
-news.yahoo.co.jp##.TPoys.sc-hZfgkB
-news.yahoo.co.jp##.cjnWlq.sc-higWrZ
-yahoo.co.jp###ybb > div._1nJ39BFpWaPCIWutB-olO8._2wxmE85OIsKrFYkvsJ2Tu1._171Q0OxQF2Vk3J_CxMxajb.-DmdTfmK9dpsdI1vggc-z
-yahoo.co.jp###YbbCenterBanner > a.yMWCYupQNdgppL-NV6sMi._3sAlKGsIBCxTUbNi86oSjt > span.rStpk9W4eUO5IMVhnJylj
-yahoo.co.jp###eyebrow > ul.UM606c1MQ3J4sSqNsndEZ:first-child > li._2wMdVO6wAf3-0DnWkjTY0b:nth-child(3) > span.fQMqQTGJTbIMxjQwZA2zk.DB1xWkV-AiF3oBGL1BuYd > a.yMWCYupQNdgppL-NV6sMi._3sAlKGsIBCxTUbNi86oSjt
-iosys.co.jp###main > div.container-lg.item.mbtm50 > div.row.mtop15:last-child > div.col-lg-9.col-md-9:nth-child(2) > div.hidden-xs.hidden-sm:first-child > div.series_model_main > div.lead_content:first-child > div.mustbuy:first-child > img.img-responsive
-iosys.co.jp###wrapper > div.series_model_head:nth-child(3) > div.eyecatch
-iosys.co.jp###wrapper > div.series_top_head:nth-child(3) > div.smartphone:first-child > div.eyecatch
-iosys.co.jp###main > div.container-lg.item.mbtm50 > div.row.mtop15:last-child > div.col-lg-9.col-md-9:nth-child(2) > div.hidden-xs.hidden-sm:first-child > div.series_top_main > div.lead_content:first-child > div.mustbuy:first-child > img.img-responsive.lozad
+yahoo.co.jp###clvmoduleeccllinkaucusvcclposition0 > div._1nJ39BFpWaPCIWutB-olO8._2wxmE85OIsKrFYkvsJ2Tu1.-DmdTfmK9dpsdI1vggc-z
+yahoo.co.jp###clvmoduleec2cllinkshptsvcclposition0 > div._1nJ39BFpWaPCIWutB-olO8._2wxmE85OIsKrFYkvsJ2Tu1.-DmdTfmK9dpsdI1vggc-z > div.qrG42JqxmwlO7FtyDG0vM:nth-child(2) > div.MsvAoB8tRw1aTVZwJ42gc:first-child
+yahoo.co.jp###clvmoduleec2cllinkshptsvcclposition0 > div._1nJ39BFpWaPCIWutB-olO8._2wxmE85OIsKrFYkvsJ2Tu1.-DmdTfmK9dpsdI1vggc-z
+
