@@ -52,3 +52,6 @@ m.yahoo.co.jp ##div > div.App > div.page-Top.Container > header.ContainerHeader 
 m.yahoo.co.jp##div > div.App > div.page-Top.Container > header.ContainerHeader > div.Header_Header__beIc7 > div.Header_Header__contentWrapper__Xvt12 > ul.Header_Header__nav__jVEj0 > li.Header_Header__navItem__p3gL7 > section > a.Header_Header__notification__3DN0L
 m.yahoo.co.jp ##div > div.App > div.page-Top.Container > main.ContainerMain > section.Stream_Stream__oLi7y > div.ContentWrapper_StreamContentWrapper__rfvnD > div > div > div.All_StreamAll__content__GCH_X > div > article.PRAds_PRAds__zqm0X.PRAds_HasBorder__0rGUO
 news.yahoo.co.jp ##div > main.sc-bMzxSZ.cHpYoi.tracked_mods > div.sc-iNpdUm.jxPyiw > article > div.sc-isYOFj.gToBAN
+news.yahoo.co.jp ##div > main.sc-bMzxSZ.cHpYoi.tracked_mods > div.sc-iNpdUm.jxPyiw > article > div.sc-isYOFj.gToBAN
+news.yahoo.co.jp ##div > main.sc-bMzxSZ.cHpYoi.tracked_mods > div.sc-iNpdUm.jxPyiw > article > header.sc-lmyUgd.jcmsQz
+news.yahoo.co.jp ##div > main.sc-bMzxSZ.cHpYoi.tracked_mods > div.sc-iNpdUm.jxPyiw > article > div.sc-isYOFj.gToBAN
