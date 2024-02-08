@@ -1,6 +1,6 @@
 ipad用要素ブロック【adgurd様式】(不要な要素をブロックしてyahooを見やすくする）
 Braveブラウザの要素のブロックにより作成 
-2024年2月5日変更
+2024年2月8日変更
 
 www.yahoo.co.jp##._2TzkLph0QyL9hAv5c53WeY > ._6iDyy-CUks251J9k1epBP > li._3gsf81y-6_ZDi-j-tMaVHe
 www.yahoo.co.jp##._15h66qPnVy4iQzPepgAaiY > ._6iDyy-CUks251J9k1epBP > li._3gsf81y-6_ZDi-j-tMaVHe
@@ -264,6 +264,12 @@ s.yimg.jp##li.UserCommentListItem__Item-gFmlrF.fCbEaU:nth-of-type(2)
 s.yimg.jp##li.UserCommentListItem__Item-gFmlrF.fCbEaU:nth-of-type(2)
 yahoo.co.jp###Service > div._1nJ39BFpWaPCIWutB-olO8._2wxmE85OIsKrFYkvsJ2Tu1.-DmdTfmK9dpsdI1vggc-z
 news.yahoo.co.jp##.p0s1 
+www.yahoo.co.jp##[href*="https://pm.yahoo.co.jp/rd"]
+www.yahoo.co.jp###ssp_ydn_82399_269466 > div:nth-of-type(1) > div:nth-of-type(1)
+www.yahoo.co.jp###ssp_ydn_82399_269466 > div:nth-of-type(1)
+www.yahoo.co.jp##[href*="https://pm.yahoo.co.jp/rd"]
+www.yahoo.co.jp###ssp_ydn_82399_269466 > div:nth-of-type(1) > div:nth-of-type(1)
+www.yahoo.co.jp###ssp_ydn_82399_269466 > div:nth-of-type(1)
  
  
  
