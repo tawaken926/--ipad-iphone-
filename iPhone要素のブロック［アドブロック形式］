@@ -1,0 +1,53 @@
+iPhone要素のブロック［アドブロック形式］
+作成日:2024年2月8日
+作成者:ken.T
+ 
+m.yahoo.co.jp##div[data-key='prAd']
+m.yahoo.co.jp##.FollowCarouselHeader_FollowCarouselHeader_activeButton_nLsBj
+m.yahoo.co.jp##.Balloon_StreamTabBalloon_U2cZ1
+m.yahoo.co.jp##.Balloon_StreamTabBalloonupdate_VzKkn
+m.yahoo.co.jp##.riff-Skeleton_simmer
+m.yahoo.co.jp##.FollowCarouselHeader_FollowCarouselHeader_link__R7JtL
+m.yahoo.co.jp##.Header_Header__iconBadge_Kbze5
+m.yahoo.co.jp##.Header_Header_icon_kxp1q
+m.yahoo.co.jp##.Header_Header_iconNotification_JIUNt
+m.yahoo.co.jp##.FollowCarouselHeader_FollowCarouselHeader_notActiveButton_YdaV1
+m.yahoo.co.jp##.TimelineTargeting_TimelineTargeting__link_m1N8n
+m.yahoo.co.jp##.Heading_Heading_63XA_
+m.yahoo.co.jp##.Heading_HeadingBackground__myz40
+m.yahoo.co.jp##.Recommend_FollowRecommend_list_klPr
+m.yahoo.co.jp##.Header_Header_notification__3DNOL
+m.yahoo.co.jp##.sc-cBoqAE.jxzEwn
+news.yahoo.co.jp###jsmhMenuSearch
+news.yahoo.co.jp##.sc-dHhEtv.fUpbVA
+news.yahoo.co.jp##.sc-fUiULZ.lINYEv
+news.yahoo.co.jp##.riff-text-inverted
+news.yahoo.co.jp##.sc-ekwZWc.kVrxzW.sc-dtiUJe.ennQNs.viewableWrapper
+news.yahoo.co.jp##.sc-ekwZWc.kVrxzW.sc-dRHnuZ.byqUXo.viewableWrapper
+news.yahoo.co.jp##.sc-iYXQCk.ljaetq
+news.yahoo.co.jp##.sc-dKkdNq.kOwpyU
+news.yahoo.co.jp##.sc-hlPkLu.RmnLt
+news.yahoo.co.jp###inf_mid
+news.yahoo.co.jp##.sc-ftECzG.cTbHLh
+news.yahoo.co.jp##.sc-fjzqSk.jPPVJu
+news.yahoo.co.jp###comModule
+news.yahoo.co.jp##.sc-cAwHgt.jwXgKm
+news.yahoo.co.jp##.sc-gjSlRR.hipasF
+news.yahoo.co.jp##.sc-fMvtVv.jvPxBw.sc-dxeFgp.iAPfb.viewableWrapper
+news.yahoo.co.jp##.sc-fteDCE.dhycXD
+news.yahoo.co.jp##.sc-fMvtVv.jvPxBw.sc-dtiUJe.ennQNs.viewableWrapper
+news.yahoo.co.jp##.sc-bQkOx.kNlpF
+news.yahoo.co.jp##.sc-hHdtSz.gRTzXa
+news.yahoo.co.jp##.sc-isYOfJ.gToBAN
+news.yahoo.co.jp##.sc-gWHigU.fJjkqa.sc-dHnuKo.bZICv.viewableWrapper
+news.yahoo.co.jp###mhd_prem_header_sp
+news.yahoo.co.jp##.sc-dvwyPy.imtULK
+news.yahoo.co.jp###jsmhNotice
+news.yahoo.co.jp##.sc-dSgHyl.hlImRiZ
+search.yahoo.co.jp##.spBanner
+m.yahoo.co.jp ##div > div.App > div.page-Top.Container > div > div.RichSmartAppBanner_RichSmartAppBanner__IVUbP > section > a.RichSmartAppBanner_RichSmartAppBanner__link__euC7z
+m.yahoo.co.jp ##div > div.App > div.page-Top.Container > main.ContainerMain > div.TopLinkFirst_TopLinkFirst__ZLgcN
+m.yahoo.co.jp ##div > div.App > div.page-Top.Container > main.ContainerMain > section.Stream_Stream__oLi7y > div.ContentWrapper_StreamContentWrapper__rfvnD.ContentWrapper_StreamContentWrapperShowBackTop__7Zvro > div > div > div.All_StreamAll__content__GCH_X > section > div > ul.Quriosity_Quriosity__2SV48 > li.Quriosity_Quriosity__listItem__pgvYR > aside.ArticleBox_ArticleBox__Z3L_F.ArticleBox_ArticleBoxHasBorder__D4wgR > a.TimelineTargeting_TimelineTargeting__link__m1N8n
+m.yahoo.co.jp ##div > div.App > div.page-Top.Container > header.ContainerHeader > div.Header_Header__beIc7 > div.Header_Header__contentWrapper__Xvt12 > ul.Header_Header__nav__jVEj0 > li.Header_Header__navItem__p3gL7 > section > a.Header_Header__notification__3DN0L
+m.yahoo.co.jp##div > div.App > div.page-Top.Container > header.ContainerHeader > div.Header_Header__beIc7 > div.Header_Header__contentWrapper__Xvt12 > ul.Header_Header__nav__jVEj0 > li.Header_Header__navItem__p3gL7 > section > a.Header_Header__notification__3DN0L
+m.yahoo.co.jp ##div > div.App > div.page-Top.Container > main.ContainerMain > section.Stream_Stream__oLi7y > div.ContentWrapper_StreamContentWrapper__rfvnD > div > div > div.All_StreamAll__content__GCH_X > div > article.PRAds_PRAds__zqm0X.PRAds_HasBorder__0rGUO
