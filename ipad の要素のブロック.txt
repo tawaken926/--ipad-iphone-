@@ -270,6 +270,26 @@ www.yahoo.co.jp###ssp_ydn_82399_269466 > div:nth-of-type(1)
 www.yahoo.co.jp##[href*="https://pm.yahoo.co.jp/rd"]
 www.yahoo.co.jp###ssp_ydn_82399_269466 > div:nth-of-type(1) > div:nth-of-type(1)
 www.yahoo.co.jp###ssp_ydn_82399_269466 > div:nth-of-type(1)
- 
+news.yahoo.co.jp###articleCommentModule > div.sc-httYss.gDQctw.undefined.viewableWrapper > aside.sc-dCuZjY.gRzsww:last-child > div.sc-hZOxab.iBvjld:last-child
+news.yahoo.co.jp###contentsWrap > div.sc-ieGRMn.hokNic:nth-child(1)
+news.yahoo.co.jp###contentsWrap > div.sc-ieGRMn.hokNic:nth-child(2)
+news.yahoo.co.jp###contentsWrap > div.sc-ieGRMn.hokNic:nth-child(3)
+news.yahoo.co.jp###contentsWrap > div.sc-ieGRMn.hokNic:nth-child(4)
+news.yahoo.co.jp###contentsWrap > div.sc-ieGRMn.hokNic:nth-child(5)
+news.yahoo.co.jp###contentsWrap > div.sc-ieGRMn.hokNic:nth-child(6)
+news.yahoo.co.jp###contentsWrap > div.sc-ieGRMn.hokNic:nth-child(7)
+news.yahoo.co.jp###contentsWrap > div.sc-ieGRMn.hokNic:nth-child(8)
+news.yahoo.co.jp###contentsWrap > div.sc-ieGRMn.hokNic:nth-child(9)
+news.yahoo.co.jp###contentsWrap > div.sc-ieGRMn.hokNic:nth-child(10)
+news.yahoo.co.jp###contentsWrap > div.sc-ieGRMn.hokNic:nth-child(11)
+news.yahoo.co.jp###contentsWrap > div.sc-ieGRMn.hokNic:nth-child(12)
+news.yahoo.co.jp###contentsWrap > div.sc-ieGRMn.hokNic:nth-child(13)
+news.yahoo.co.jp###yjnFixableArea > div > div.adWrap:nth-child(1)
+news.yahoo.co.jp###yjnFixableArea > div > div.adWrap:nth-child(2)
+news.yahoo.co.jp###yjnFixableArea > div > div.adWrap:first-child
+news.yahoo.co.jp###uamods > div.sc-flMpop.UJTA-D:nth-child(1)
+news.yahoo.co.jp###uamods > div.sc-flMpop.UJTA-D:nth-child(2)
+news.yahoo.co.jp###uamods > div.sc-flMpop.UJTA-D:nth-child(3)
+news.yahoo.co.jp###uamods > div.sc-flMpop.UJTA-D:nth-child(4)
  
  
