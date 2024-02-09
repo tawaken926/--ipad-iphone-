@@ -1,5 +1,5 @@
 ipad用ブロックリスト【adblock形式】
-作成日：2月7日
+作成日：2月8日変更
 作成者：Ken.T
  
 news.yahoo.co.jp###uamods > div.sc-dkmKIT.koujgH:nth-child(4)
@@ -83,3 +83,19 @@ news.yahoo.co.jp ##div.sc-citxvW.jPZyDm.tracked_mods > div.sc-jcVcSv.JOel > main
 news.yahoo.co.jp ##div.sc-citxvW.jPZyDm.tracked_mods > div.sc-jcVcSv.JOel > main.sc-bZSRNg.erugOB > div.sc-iUuxjF.bKbtnk > div.sc-iBaQBe.iBqPcT > div.sc-ieGRMn.hokNic
 news.yahoo.co.jp ##div.sc-citxvW.jPZyDm.tracked_mods > div.sc-jcVcSv.JOel > main.sc-bZSRNg.erugOB > div.sc-iUuxjF.bKbtnk > div.sc-iBaQBe.iBqPcT > div.sc-chbAZy.dpELuI
 news.yahoo.co.jp ##div.sc-citxvW.jPZyDm.tracked_mods > div.sc-jcVcSv.JOel > main.sc-bZSRNg.erugOB > div.sc-iUuxjF.bKbtnk > div.sc-iBaQBe.iBqPcT > div > div.sc-httYss.gDQctw.undefined.viewableWrapper > aside.sc-dCuZjY.gRzsww > div.sc-hZOxab.iBvjld
+news.yahoo.co.jp##.sc-citxvw.jPZyDm.tracked_mods
+news.yahoo.co.jp##.sc-jcVcSv.J0el
+news.yahoo.co.jp##.sc-bZSRNg.erugOB
+news.yahoo.co.jp##.sc-iUuxjF.bKbtnk
+news.yahoo.co.jp##.sc-iBaQBe.iBqPcT
+news.yahoo.co.jp##.sc-dtwnrN.iIwiPc
+news.yahoo.co.jp##.sc-UwENZ.crKISM
+news.yahoo.co.jp##.sc-gmmXAg.hFkeXC
+news.yahoo.co.jp##.sc-jcVoSv.JOel
+news.yahoo.co.jp##.sc-kYppmd.bYfYXV
+news.yahoo.co.jp##.sc-jDWeJi.heJgJG
+news.yahoo.co.jp##.sc-jmhFuu.iIxqCA.sc-bZRSAF.hknRJe
+news.yahoo.co.jp##.sc-bcmZex.epgIsx
+news.yahoo.co.jp##.sc-flMpop.UJTA-D
+news.yahoo.co.jp##.sc-gVgoRu.gbYkUn
+news.yahoo.co.jp##.sc-fWPcWZ.bRXTcU
