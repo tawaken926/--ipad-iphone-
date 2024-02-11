@@ -1,7 +1,7 @@
 iPhone要素のブロック［アドブロック形式］
-作成日:2024年2月8日
+作成日:2024年2月11日
 作成者:ken.T
- 
+
 m.yahoo.co.jp##div[data-key='prAd']
 m.yahoo.co.jp##.FollowCarouselHeader_FollowCarouselHeader_activeButton_nLsBj
 m.yahoo.co.jp##.Balloon_StreamTabBalloon_U2cZ1
@@ -52,10 +52,10 @@ m.yahoo.co.jp ##div > div.App > div.page-Top.Container > header.ContainerHeader 
 m.yahoo.co.jp##div > div.App > div.page-Top.Container > header.ContainerHeader > div.Header_Header__beIc7 > div.Header_Header__contentWrapper__Xvt12 > ul.Header_Header__nav__jVEj0 > li.Header_Header__navItem__p3gL7 > section > a.Header_Header__notification__3DN0L
 m.yahoo.co.jp ##div > div.App > div.page-Top.Container > main.ContainerMain > section.Stream_Stream__oLi7y > div.ContentWrapper_StreamContentWrapper__rfvnD > div > div > div.All_StreamAll__content__GCH_X > div > article.PRAds_PRAds__zqm0X.PRAds_HasBorder__0rGUO
 news.yahoo.co.jp ##div > main.sc-bMzxSZ.cHpYoi.tracked_mods > div.sc-iNpdUm.jxPyiw > article > div.sc-isYOFj.gToBAN
-news.yahoo.co.jp ##div > main.sc-bMzxSZ.cHpYoi.tracked_mods > div.sc-iNpdUm.jxPyiw > article > div.sc-isYOFj.gToBAN
 news.yahoo.co.jp ##div > main.sc-bMzxSZ.cHpYoi.tracked_mods > div.sc-iNpdUm.jxPyiw > article > header.sc-lmyUgd.jcmsQz
 news.yahoo.co.jp ##div > main.sc-bMzxSZ.cHpYoi.tracked_mods > div.sc-iNpdUm.jxPyiw > article > div.sc-isYOFj.gToBAN
-news.yahoo.co.jp##div > main.sc-bMzxSZ.cHpYoi.tracked_mods > div.sc-iNpdUm.jxPyiw > article > div.sc-isYOFj.gToBAN > div.sc-euMpEg.gMryfc
+news.yahoo.co.jp ##div > main.sc-bMzxSZ.cHpYoi.tracked_mods > div.sc-iNpdUm.jxPyiw > article > div.sc-isYOFj.gToBAN > div.sc-euMpEg.gMryfc
+news.yahoo.co.jp ##div > main.sc-bMzxSZ.cHpYoi.tracked_mods > div.sc-iNpdUm.jxPyiw > article > div.sc-isYOFj.gToBAN > div.sc-euMpEg.gMryfc
 news.yahoo.co.jp##.sc-IbZwQm.cgANDa
 news.yahoo.co.jp##.sc-cAwhgt.jwXgKm
 news.yahoo.co.jp##.sc-gjSLIR.hipasF
@@ -82,4 +82,12 @@ news.yahoo.co.jp##.sc-fMvtVv.jpXBvw.sc-dxeFgp.iAPfb.viewableWrapper
 news.yahoo.co.jp##.sc-fMvtVv.jpXBvw.sc-dtiUJe.ennQNs.viewableWrapper
 news.yahoo.co.jp##.sc-ekwZWc.kVrxzW.sc-dtiUJe.ennQNs.viewableWrapper
 news.yahoo.co.jp##.sc-ekwZWc.kVrxzW.sc-dRHnuZ.byqUXo.viewableWrapper
-news.yahoo.co.jp##div > main.sc-bMzxSZ.cHpYoi.tracked_mods > div.sc-iNpdUm.jxPyiw > article > header.sc-lmyUgd.jcmsQz > div.sc-hIPkLu.kSVXBD > div.sc-jsNtJQ.bYRQeV > div.sc-bokQx.kNlpF
+news.yahoo.co.jp ##div > main.sc-bMzxSZ.cHpYoi.tracked_mods > div.sc-iNpdUm.jxPyiw > article > header.sc-lmyUgd.jcmsQz > div.sc-hIPkLu.kSVXBD > div.sc-jsNtJQ.bYRQeV > div.sc-bokQx.kNlpF
+m.yahoo.co.jp##li.TimeLine_FollowTimeLine__listItemBorder__c1dr9.TimeLine_FollowTimeLine__listItem__KlNEn:nth-of-type(4)
+m.yahoo.co.jp##li.TimeLine_FollowTimeLine__listItemBorder__c1dr9.TimeLine_FollowTimeLine__listItem__KlNEn > section
+m.yahoo.co.jp##.SummaryEntity_ZeroLeftPadding__Vrj3o.SummaryEntity_BackgroundTransparent__r8Wr_.FollowEntityTitleLayout_Wrapper__mdWBo
+m.yahoo.co.jp##.swiper-slide-active.FollowCarouselBody_FollowCarouselItem__xHcqo.swiper-slide > article > .ThemeEntity_Header__Z2YGr > .FollowEntityTitleLayout_FollowEntityTitleLayout__uKb7U > .ThemeEntity_ZeroLeftPadding__nzD_u.ThemeEntity_BackgroundTransparent__HoMeE.FollowEntityTitleLayout_Wrapper__mdWBo
+m.yahoo.co.jp##.swiper-slide-active.FollowCarouselBody_FollowCarouselItem__xHcqo.swiper-slide > article > .ThemeEntity_Header__Z2YGr > .FollowEntityTitleLayout_FollowEntityTitleLayout__uKb7U > .riff-mr-0.FollowEntityTitleLayout_ActionButton__9JVCw > .riff-outline-none.riff-appearance-none.riff-rounded-br-full.riff-rounded-bl-full.riff-rounded-tr-full.riff-rounded-tl-full.riff-bg-content.riff-leading-none.riff-font-bold.riff-text-x-small.riff-h-11.riff-pl-4.riff-pr-4.riff-relative.riff-items-center.riff-justify-center.riff-inline-flex.riff-Clickable__root.ThemeEntity_FollowButton__EgGn6
+m.yahoo.co.jp##.swiper-slide-active.FollowCarouselBody_FollowCarouselItem__xHcqo.swiper-slide > article > .ThemeEntity_Header__Z2YGr > .FollowEntityTitleLayout_FollowEntityTitleLayout__uKb7U > .riff-mr-0.FollowEntityTitleLayout_ActionButton__9JVCw
+m.yahoo.co.jp##.MottoMiruEntity_Wrapper__fv4Xl
+m.yahoo.co.jp##.FollowCarousel_FollowCarousel__3auIV
