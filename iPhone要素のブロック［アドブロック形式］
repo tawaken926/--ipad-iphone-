@@ -152,5 +152,4 @@ news.yahoo.co.jp##.hYATFN.sc-fjsfXV
 news.yahoo.co.jp##.fYrbQQ.sc-lcTOir
 news.yahoo.co.jp##.gRTzXa.sc-hHdtSz
 news.yahoo.co.jp##.gToBAN.sc-isYOFj
-||s.yimg.jp/images/news-web/sp/images/line_am.png$image
-news.yahoo.co.jp###contents > div.sc-fmraeZ.flkKFU > article.sc-ifaEJS.inTjPs:first-child > div.sc-fiFUdT.gJiKAF:first-child > div.sc-fMvtVv.jpXBvw.sc-eBvKdj.dohWHv.viewableWrapper:nth-child(4) > section.sc-gEUNEk.jsYuNW:last-child
+||s.yimg.jp/images/news-web/sp/images/line_am.png$ div.sc-fmraeZ.flkKFU > article.sc-ifaEJS.inTjPs:first-child > div.sc-fiFUdT.gJiKAF:first-child > div.sc-fMvtVv.jpXBvw.sc-eBvKdj.dohWHv.viewableWrapper:nth-child(4) > section.sc-gEUNEk.jsYuNW:last-child
