@@ -1,5 +1,5 @@
 ipad要素のブロック(braveで作成）
-2024年2月12日
+2024年2月14日(変更）
 作成者　K .tawada
 
 www.yahoo.co.jp##._2dqDKArI6iGaA3nS7xNUmE > dl > dd
@@ -219,8 +219,7 @@ news.yahoo.co.jp##[href*="https://rdr.yahoo.co.jp/v1/label=L21lbXBmL21oZC91aGQvc
 news.yahoo.co.jp###uhd_offer04 > .compo > .txt
 news.yahoo.co.jp###uhd_offer00 > .compo > .txt
 calendar.yahoo.co.jp###msthdPrLink
-calendar.yahoo.co.jp###uhd_offer00 > .compo > .txt
-www.yahoo.co.jp##li:nth-of-type(17) > ._3Ip8DQAJYKfPeByyVN-utZ > .yMWCYupQNdgppL-NV6sMi._3sAlKGsIBCxTUbNi86oSjt.cl-nofollow > ._2bBRLhI5ZpVYu0tuHZEFrn
+calendar.yahoo.co.jp###uhd_offer00 > .compo > .txtwww.yahoo.co.jp##li:nth-of-type(17) > ._3Ip8DQAJYKfPeByyVN-utZ > .yMWCYupQNdgppL-NV6sMi._3sAlKGsIBCxTUbNi86oSjt.cl-nofollow > ._2bBRLhI5ZpVYu0tuHZEFrn
 www.yahoo.co.jp##li:nth-of-type(16) > ._3Ip8DQAJYKfPeByyVN-utZ > .yMWCYupQNdgppL-NV6sMi._3sAlKGsIBCxTUbNi86oSjt.cl-nofollow > ._2bBRLhI5ZpVYu0tuHZEFrn
 www.yahoo.co.jp##li:nth-of-type(13) > ._3Ip8DQAJYKfPeByyVN-utZ > .yMWCYupQNdgppL-NV6sMi._3sAlKGsIBCxTUbNi86oSjt.cl-nofollow > ._2bBRLhI5ZpVYu0tuHZEFrn
 www.yahoo.co.jp##li:nth-of-type(10) > ._3Ip8DQAJYKfPeByyVN-utZ > .yMWCYupQNdgppL-NV6sMi._3sAlKGsIBCxTUbNi86oSjt.cl-nofollow > ._2bBRLhI5ZpVYu0tuHZEFrn
@@ -231,3 +230,23 @@ calendar.yahoo.co.jp##.Footer__links
 calendar.yahoo.co.jp###mhHelpLink
 calendar.yahoo.co.jp###mhIconWrap
 calendar.yahoo.co.jp###uhd_offer04 > .compo > .txt
+s.yimg.jp##.vjs-poster
+news.yahoo.co.jp##.vjs-poster
+news.yahoo.co.jp##.vjs-poster
+s.yimg.jp##.vjs-poster
+news.yahoo.co.jp##[href*="https://rdr.yahoo.co.jp/v1/label=L21lbXBmL21oZC91aGQvcGMvMTQ3ODIzLzE4MTQyNi8xMzQ2NTU3LzQ/p=mempf/d=mempf_redirect_api_log/tk=8dec6df6-7d6e-4085-b834-5afb49ed6c82/ru=aHR0cHM6Ly9raWRzLnlhaG9vLmNvLmpwLz9jcHRfbj1yZW5ld2FsJmNwdF9tPXR4dCZjcHRfcz11aGQ/"]
+news.yahoo.co.jp##.sc-fKFxtB.hWobCs > .sc-dmlqKv.mdYKk
+s.yimg.jp##li.sc-fKFxtB.dOeFaO:nth-of-type(6) > .sc-dmlqKv.mdYKk
+news.yahoo.co.jp##li.sc-fKFxtB.dOeFaO:nth-of-type(6) > .sc-dmlqKv.mdYKk
+news.yahoo.co.jp##li.sc-fKFxtB.dOeFaO:nth-of-type(5) > .sc-dmlqKv.mdYKk
+www.yahoo.co.jp##li:nth-of-type(17) > ._3Ip8DQAJYKfPeByyVN-utZ > .yMWCYupQNdgppL-NV6sMi._3sAlKGsIBCxTUbNi86oSjt.cl-nofollow > ._2bBRLhI5ZpVYu0tuHZEFrn
+s.yimg.jp##.vjs-big-play-button
+news.yahoo.co.jp##.vjs-big-play-button
+news.yahoo.co.jp###yvpubplayer0_html5_api
+www.yahoo.co.jp##._2KSAVmekATGu43KySZB31Z._39bsyXI766slVaQ8YaCP7e
+finance.yahoo.co.jp###uhd_offer04 > .compo > .txt
+finance.yahoo.co.jp##._1IdtoV3i._2b7tgwAb
+finance.yahoo.co.jp##.bEG0YIxg
+finance.yahoo.co.jp##._19cJBhoL
+finance.yahoo.co.jp###mhHelpLink
+finance.yahoo.co.jp###msthdPrLink
