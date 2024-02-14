@@ -1,5 +1,5 @@
 iPhone要素のブロック［アドブロック形式］
-作成日:2024年2月11日
+修正日:2024年2月14日
 作成者:ken.T
 
 m.yahoo.co.jp##div[data-key='prAd']
@@ -138,4 +138,9 @@ calendar.yahoo.co.jp##[href="https://privacy.lycorp.co.jp/ja/"]
 calendar.yahoo.co.jp##[href="https://www.lycorp.co.jp/ja/company/privacypolicy/"]
 ||s.yimg.jp/images/templa/mhd/v2/images/icn_search_a.png$image
 ||s.yimg.jp/images/templa/mhd/v2/images/yjsmhIconUtility.png$image
-
+m.yahoo.co.jp###ssp_ydn_88233_645626
+calendar.yahoo.co.jp##.riff-AppBanner__body
+calendar.yahoo.co.jp##.MtoCLink
+news.yahoo.co.jp##.gLHHGG.sc-eiBfEU
+||s.yimg.jp/images/news-web/sp/images/line_am.png$image
+news.yahoo.co.jp##.hYATFN.sc-fjsfXV
