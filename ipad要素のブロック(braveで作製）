@@ -255,3 +255,36 @@ news.yahoo.co.jp###mhUserIcon
 news.yahoo.co.jp##.sc-iRpzth.VgIXD
 www.yahoo.co.jp##._1glrFPJpWbefWf8qr3k4FU > li:nth-of-type(8) > ._3Ip8DQAJYKfPeByyVN-utZ > .yMWCYupQNdgppL-NV6sMi._3sAlKGsIBCxTUbNi86oSjt.cl-nofollow > ._2bBRLhI5ZpVYu0tuHZEFrn
 www.yahoo.co.jp##._1glrFPJpWbefWf8qr3k4FU > li:nth-of-type(6) > ._3Ip8DQAJYKfPeByyVN-utZ > .yMWCYupQNdgppL-NV6sMi._3sAlKGsIBCxTUbNi86oSjt.cl-nofollow > ._2bBRLhI5ZpVYu0tuHZEFrn
+services.yahoo.co.jp##.Footer__links
+services.yahoo.co.jp##.Footer__address
+services.yahoo.co.jp##li.Header__linkItem:nth-of-type(2) > .Header__linkText
+chiebukuro.yahoo.co.jp##[href*="https://rdr.yahoo.co.jp/v1/label=L21lbXBmL21oZC91aGQvcGMvMTQ3ODIzLzE4MTQyNi8xMzQ2NTU3LzE/p=mempf/d=mempf_redirect_api_log/tk=8dec6df6-7d6e-4085-b834-5afb49ed6c82/ru=aHR0cHM6Ly9zZGdzLnlhaG9vLmNvLmpwL29yaWdpbmFscy8xOTMuaHRtbD9jcHRfbT11aGQmY3B0X249VUhEJmNwdF9zPWFsbA/"]
+chiebukuro.yahoo.co.jp###mhHelpLink
+chiebukuro.yahoo.co.jp###info
+chiebukuro.yahoo.co.jp##.Footer_footer__links__3PCrj
+chiebukuro.yahoo.co.jp##small:nth-of-type(1)
+chiebukuro.yahoo.co.jp###rcm_bnr
+chiebukuro.yahoo.co.jp##[src*="https://s.yimg.jp/images/ks/clap/image/banner/top_bolg.png"]
+chiebukuro.yahoo.co.jp##.Top_chie-Pages__SubColumnSection__Report__Ghjb9
+chiebukuro.yahoo.co.jp##.Top_chie-Pages__SubColumnSection__LinkRecommend__2moDq
+search.yahoo.co.jp##[src*="https://s.yimg.jp/images/serp/ts/banner/apppromo_right.png"]
+search.yahoo.co.jp###msthdPrLink
+search.yahoo.co.jp##.mhdPcUserInfo
+search.yahoo.co.jp###uhd_offer05 > .compo > .txt
+search.yahoo.co.jp##[href*="https://yahoo.jp/hbMEmX"]
+search.yahoo.co.jp##[href*="https://rdr.yahoo.co.jp/v1/label=L21lbXBmL21oZC91aGQvcGMvMTQ3ODIzLzE4MTQyNi8xMzQ2NTU3LzU/p=mempf/d=mempf_redirect_api_log/tk=8dec6df6-7d6e-4085-b834-5afb49ed6c82/ru=aHR0cHM6Ly9seS1hY2FkZW15LnlhaG9vLmNvLmpwL3RlY2gvP2NwdF9uPTIwMjRtc3RoZCZjcHRfbT0yMDI0bXN0aGQmY3B0X3M9MjAyNG1zdGhk/"]
+search.yahoo.co.jp##[href*="https://yahoo.jp/5V6S-n"]
+search.yahoo.co.jp###uhd_offer03 > .compo > .txt
+loco.yahoo.co.jp###msthdPrLink
+loco.yahoo.co.jp###mhPointDetailTxtPaypay
+loco.yahoo.co.jp###mhUserIcon
+loco.yahoo.co.jp###uhd_offer05 > .compo > .txt
+loco.yahoo.co.jp###uhd_offer03 > .compo > .txt
+loco.yahoo.co.jp###uhd_offer00 > .compo > .txt
+loco.yahoo.co.jp###uhd_offer04 > .compo > .txt
+loco.yahoo.co.jp###uhd_offer02 > .compo > .txt
+loco.yahoo.co.jp###mhHelpLink
+loco.yahoo.co.jp##.footer__body
+shopping.yahoo.co.jp##.Masthead__appeal____2_0_106
+shopping.yahoo.co.jp##.Masthead__links____2_0_106
+shopping.yahoo.co.jp##.Balloon.Balloon--top.Balloon--center.style_WalletBlock__balloon__mG_3D.style_WalletBlock__balloon--premium__evZmq
