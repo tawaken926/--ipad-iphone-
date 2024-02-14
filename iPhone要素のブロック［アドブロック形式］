@@ -1,5 +1,5 @@
 iPhone要素のブロック［アドブロック形式］
-修正日:2024年2月14日
+修正日:2024年2月15日
 作成者:ken.T
 
 m.yahoo.co.jp##div[data-key='prAd']
@@ -153,3 +153,12 @@ news.yahoo.co.jp##.fYrbQQ.sc-lcTOir
 news.yahoo.co.jp##.gRTzXa.sc-hHdtSz
 news.yahoo.co.jp##.gToBAN.sc-isYOFj
 ||s.yimg.jp/images/news-web/sp/images/line_am.png$ div.sc-fmraeZ.flkKFU > article.sc-ifaEJS.inTjPs:first-child > div.sc-fiFUdT.gJiKAF:first-child > div.sc-fMvtVv.jpXBvw.sc-eBvKdj.dohWHv.viewableWrapper:nth-child(4) > section.sc-gEUNEk.jsYuNW:last-child
+news.yahoo.co.jp##.viewableWrapper.dohWHv.sc-eBvKdj.jpXBvw.sc-fMvtVv
+news.yahoo.co.jp##.gToBAN.sc-isYOFj
+news.yahoo.co.jp##.viewableWrapper.iAPfb.sc-dxeFgp.jpXBvw.sc-fMvtVv
+news.yahoo.co.jp##.hipasF.sc-gjSLlR
+news.yahoo.co.jp##.czseaK.sc-bQVnZi
+news.yahoo.co.jp##.jFqgWE.sc-jXupuA
+||s.yimg.jp/images/news-web/sp/images/line_am.png$image
+news.yahoo.co.jp##.riff-text-link
+||s.yimg.jp/images/news-web/sp/images/line_am.png$image
